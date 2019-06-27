@@ -308,7 +308,7 @@ button {
   z-index: 1;
   width: 100%;
   top: 0;
-  border-bottom: solid 1.5px #fff;
+  border-bottom: solid 1.5px #f4f4f4;
   opacity: 0.9;
 }
 
@@ -323,7 +323,7 @@ button {
 }
 
 .navbar a:hover {
-  color: #b88f1e;
+  color: #f5c82e;
 }
 
 .navbar .welcome span {
