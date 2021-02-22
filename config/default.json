@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://RepoDev-Test:VRGpzR5Y2cp74gbr@repocoin-dev-kgwj5.mongodb.net/test?retryWrites=true",
-  "jwtSecret": "mysecretjsonwebtoken"
+  "mongoURI": "add your own",
+  "jwtSecret": "add your own"
 }
